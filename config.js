@@ -1,7 +1,7 @@
 'use strict';
 
 module.exports = {
-  url: 'timcobrien.tech',
+  url: 'https://timcobrien.tech',
   pathPrefix: '/',
   title: 'Tim O\'Brien',
   subtitle: 'Get to know me!',
