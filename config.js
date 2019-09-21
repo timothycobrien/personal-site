@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'Resume',
-      path: '/pages/resume'
+      path: '/media/resume.pdf'
     },
     {
       label: 'About me',
@@ -26,6 +26,10 @@ module.exports = {
     {
       label: 'Contact me',
       path: '/pages/contacts'
+    },
+    {
+      label: 'Posts',
+      path: '/posts'
     }
   ],
   author: {
@@ -43,8 +47,8 @@ module.exports = {
       line: '',
       gitlab: '',
       weibo: '',
-      github: 'https://github.com/timothycobrien',
-      linkedin: 'https://www.linkedin.com/in/timothyc-obrien/',
+      github: 'timothycobrien',
+      linkedin: 'timothyc-obrien',
     }
   }
 };

@@ -4,10 +4,4 @@ template: "page"
 socialImage: "/media/image-2.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
-
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
-
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
-
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Hi! My name is Tim O’Brien, and I’m currently a junior at Vanderbilt triple majoring in Computer Science, Applied Math, and French. Ever since I was little, I’ve been really into problem-solving, which led me from math competitions in middle and high school to, ever since starting college, aspiring to be a software engineer so that I can solve challenging problems every day. I'm really passionate about spreading my love for programming, so I work on-campus as a teaching assistant for an upper-level CS class as well as helping to organize CS events and a yearly hackathon for VandyHacks. Last summer, I worked at a startup developing an internal portal using Angular and TypeScript to allow their support team to see everything going on inside a customer’s cloud deployment. One of our goals was to make the portal as secure as possible, adding multiple levels of authentication, view-only access, and additional safeguards. I really enjoyed working as a full-stack engineer last summer because it allowed me to solve problems on both the front and back end. This summer, I'd like to take a deeper look at the back end because I particularly enjoy coming up with and implementing algorithms to solve lots of different kinds of problems.
