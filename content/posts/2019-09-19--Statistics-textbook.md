@@ -1,5 +1,5 @@
 ---
-title: A (very basic) statistics textbook
+title: A (very basic) statistics textbook (in-progress)
 date: "2019-09-19T20:46:37.121Z"
 template: "post"
 draft: false
