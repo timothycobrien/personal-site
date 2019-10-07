@@ -1,5 +1,7 @@
 # Personal Site
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3f71d338-1a61-4ac4-b9e1-048c4e9d2f7b/deploy-status)](https://app.netlify.com/sites/cranky-jepsen-df2fa7/deploys)
+
 This is a personal site made with Gatsby.js.
 
 I have an awful eye for design, so I decided to use a Gatsby template I liked online (credits below).
