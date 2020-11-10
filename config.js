@@ -35,7 +35,7 @@ module.exports = {
   author: {
     name: 'Tim O\'Brien',
     photo: '/photo.jpg',
-    bio: 'I\'m a junior at Vanderbilt University studying Computer Science, Applied Mathematics, and French. Please check out my (very in-progress) website)! If you have any questions or just want to learn more, feel free to get in touch!',
+    bio: 'I\'m a senior at Vanderbilt University studying Computer Science, Applied Mathematics, and French. Please check out my (very in-progress) website)! If you have any questions or just want to learn more, feel free to get in touch!',
     contacts: {
       email: 'timothy.c.obrien@vanderbilt.edu',
       facebook: '',
